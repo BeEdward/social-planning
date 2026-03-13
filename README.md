@@ -1,18 +1,18 @@
 # Social Planning
 
-Self-media content strategy and operations playbook for building a personal brand across Xiaohongshu (Little Red Book) and Bilibili.
+自媒体内容策略与运营方案，用于在小红书和B站打造个人IP。
 
-## What's in this repo
+## 仓库内容
 
-- **自媒体运营方案.md** - A comprehensive social media operations plan covering:
-  - Personal brand positioning (90s entrepreneur / AI practitioner / serial founder)
-  - Content matrix design across 4 pillars: startup stories, AI tech, AI monetization, and trending topics
-  - Platform-specific strategies for Xiaohongshu (daily posts) and Bilibili (weekly videos)
-  - Social media monitoring system integration for topic discovery
-  - AI-assisted content production workflows to maximize output with limited time
-  - Competitor analysis and benchmark accounts to study
-  - Monetization roadmap and KPI tracking
+- **自媒体运营方案.md** — 完整的运营方案文档，涵盖：
+  - 人设定位（90后连续创业者 / AI从业者 / 烧光9位数投资）
+  - 四大内容支柱：创业故事、AI技术实战、AI搞钱、热点追踪
+  - 小红书（日更）和B站（周更）的差异化平台策略
+  - 利用社交媒体监控系统发掘选题的工作流
+  - AI辅助内容生产体系，用最少时间产出最多内容
+  - 值得学习的对标账号分析
+  - 变现路径和关键指标追踪
 
-## Purpose
+## 用途
 
-This repo serves as a living document for planning, iterating, and tracking the execution of a self-media content strategy. It is designed to be updated regularly based on data feedback and market changes.
+这个仓库是一份持续迭代的运营计划，根据实际数据反馈和市场变化不断调整策略。
